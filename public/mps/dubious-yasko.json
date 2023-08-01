@@ -1,0 +1,157 @@
+{
+    "rs4680": {
+        "phenotype": "Methionine",
+        "pathogenic": ["GG"],
+        "gene": "COMT"
+    },
+    
+    "rs4633": {
+    "phenotype": "Unknown",
+    "pathogenic": ["TT"],
+    "gene": "COMT"
+    },
+    
+    "rs769224": {
+        "phenotype": "Unknown",
+        "pathogenic": ["AA"],
+        "gene": "COMT"
+    },
+    
+    "rs1544410": {
+        "phenotype": "Vitamin D Receptor",
+        "pathogenic": ["TT"],
+        "gene": "VIT D"
+    },
+    
+    "rs731236": {
+        "phenotype": "Vitamin D Receptor",
+        "pathogenic": ["GG"],
+        "gene": "VIT D"
+    },
+    
+    "rs6323": {
+        "phenotype": "Monoamine Oxidase A",
+        "pathogenic": ["TT"],
+        "gene": "MAOA"
+    },
+    
+    "rs3741049": {
+        "phenotype": "ACAT1 Intron/Ketones (Dubious)",
+        "pathogenic": ["AA"],
+        "gene": "ACAT1"
+    },
+    
+    "rs1801133": {
+        "phenotype": "MTHFR Folate Metabolism",
+        "pathogenic": ["AA"],
+        "gene": "MTHFR C677T"
+    },
+    
+    "rs2066470": {
+        "phenotype": "MTHFR Possible Folate Metabolism",
+        "pathogenic": ["AA"],
+        "gene": "MTHFR Pro39"
+    },
+    
+    "rs1801131": {
+        "phenotype": "MTHFR Cancer/Folate/Schizo",
+        "pathogenic": ["GG"],
+        "gene": "MTHFR 1298"
+    },
+    
+    "rs1805087": {
+        "phenotype": "Folate Enzyme Impairment",
+        "pathogenic": ["GG"],
+        "gene": "MTR A2756G"
+    },
+    
+    "rs1801394": {
+        "phenotype": "Methionine Synthase Reductase/Homocysteine",
+        "pathogenic": ["GG"],
+        "gene": "MTRR A66G"
+    },
+    
+    "rs162036": {
+        "phenotype": "Possible Folate Metabolism",
+        "pathogenic": ["GG"],
+        "gene": "MTRR K350A"
+    },
+    
+    "rs1802059": {
+        "phenotype": "B12 Deficiency",
+        "pathogenic": ["AA"],
+        "gene": "MTR Yasko"
+    },
+    
+    "rs567754": {
+        "phenotype": "Homocysteine to Methionine Conversion",
+        "pathogenic": ["TT"],
+        "gene": "BHMT 02"
+    },
+    
+    "rs651852": {
+        "phenotype": "Homocysteine to Methionine Conversion",
+        "pathogenic": ["TT"],
+        "gene": "BHMT 08"
+    },
+    
+    "rs819147": {
+        "phenotype": "Yasko Mthltn (Dubious)",
+        "pathogenic": ["TT"],
+        "gene": "AHCY 01"
+    },
+    
+    "rs819171": {
+        "phenotype": "Yasko Mthltn (Dubious)",
+        "pathogenic": ["TT"],
+        "gene": "AHCT 19"
+    },
+    
+    "rs234706": {
+        "phenotype": "Dubious",
+        "pathogenic": ["AA"],
+        "gene": "CBS C699T"
+    },
+    
+    "rs1801181": {
+        "phenotype": "Ehlers-Danlos Syndrome Suspect",
+        "pathogenic": ["AA"],
+        "gene": "CBS A360A"
+    },
+    
+    "rs10380": {
+        "phenotype": "Folate Metabolism",
+        "pathogenic": ["TT"],
+        "gene": "MTRR H595Y"
+    },
+    
+    "rs2287780": {
+        "phenotype": "B12 Deficiency",
+        "pathogenic": ["TT"],
+        "gene": "MTRR R415T"
+    },
+    
+    "rs617219": {
+        "phenotype": "Yasko Mthltn (Dubious)",
+        "pathogenic": ["CC"],
+        "gene": "BHMT 04"
+    },
+    
+    "rs819134": {
+        "phenotype": "Yasko Mthltn (Dubious)",
+        "pathogenic": ["AA"],
+        "gene": "AHCY 02"
+    },
+    
+    "rs2298758": {
+        "phenotype": "Ehlers-Danlos Syndrome Suspect",
+        "pathogenic": ["AA"],
+        "gene": "CBS N212N"
+    },
+    
+    "rs1979277": {
+        "phenotype": "Folate Metabolism and Various",
+        "pathogenic": ["AA"],
+        "gene": "SHMT1"
+    }
+}
